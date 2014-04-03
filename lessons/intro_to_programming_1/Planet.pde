@@ -66,7 +66,7 @@ public class Meteor extends Planet {
 
     followMouse = false;
   }
-
+  
 /* void checkCollision (Planet, Meteor, Sun)
   /*
   Check the distance between objects 
